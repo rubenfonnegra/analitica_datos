@@ -7,6 +7,14 @@
 En este repo se alojan los códigos y material de clase que se utilizarán para el curso de analítica de datos. Los códigos contenidos en este repositorio son complementarios al sitio web del curso que pueden encontrar en el siguiente [link](https://sites.google.com/pascualbravo.edu.co/analitica-datos-presencia/presentaci%C3%B3n)
 
 
+## Itinerario de presentaciones
+
+| Semana | Título | Enlace |
+|---|---|---|
+| Sem 1 | Introducción e infraestructura | [Link](https://docs.google.com/presentation/d/137RJFWS8mQjaWugO7EcMGUhRBeToeU6AOgmpAwaHqG8/edit?usp=sharing) 
+
+
+
 ### 🗣️ Contacto: Ruben D. Fonnegra
 
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rubenfonnegra) 
