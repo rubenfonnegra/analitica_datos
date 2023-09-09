@@ -14,6 +14,8 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | Sem 1 | Introducción e infraestructura | [Link](https://docs.google.com/presentation/d/137RJFWS8mQjaWugO7EcMGUhRBeToeU6AOgmpAwaHqG8/edit?usp=sharing) 
 | Sem 2 | Infraestructuras para análisis de datos | [Link](https://docs.google.com/presentation/d/1f4w80HbtQPWiXKut-2Ezepie1Rrp4PiCMNZJSaiMwD0/edit?usp=sharing) 
 | Sem 3 | Jerarquía de memoria | [Link](https://docs.google.com/presentation/d/1N1StbCWDEpE_FYBPsvRMrTLU1D19Kz-C_oaWlsnzehE/edit?usp=sharing) 
+| Sem 5 | Teorema central y ley de grandes números | [Link](https://docs.google.com/presentation/d/1eyCJ1O-beCWy9SJBTVfFAMWUw-uZhOsLTS9xgi_pHgQ/edit#slide=id.g27ad74154df_0_0), [Practicum](https://docs.google.com/presentation/d/1eyCJ1O-beCWy9SJBTVfFAMWUw-uZhOsLTS9xgi_pHgQ/edit#slide=id.g27ad74154df_0_0) 
+
 
 
 
