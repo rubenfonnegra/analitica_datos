@@ -14,7 +14,9 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | Sem 1 | Introducción e infraestructura | [Link](https://docs.google.com/presentation/d/137RJFWS8mQjaWugO7EcMGUhRBeToeU6AOgmpAwaHqG8/edit?usp=sharing) 
 | Sem 2 | Infraestructuras para análisis de datos | [Link](https://docs.google.com/presentation/d/1f4w80HbtQPWiXKut-2Ezepie1Rrp4PiCMNZJSaiMwD0/edit?usp=sharing) 
 | Sem 3 | Jerarquía de memoria | [Link](https://docs.google.com/presentation/d/1N1StbCWDEpE_FYBPsvRMrTLU1D19Kz-C_oaWlsnzehE/edit?usp=sharing) 
-| Sem 5 | Teorema central y ley de grandes números | [Link](https://docs.google.com/presentation/d/1eyCJ1O-beCWy9SJBTVfFAMWUw-uZhOsLTS9xgi_pHgQ/edit#slide=id.g27ad74154df_0_0), [Practicum](https://docs.google.com/presentation/d/1eyCJ1O-beCWy9SJBTVfFAMWUw-uZhOsLTS9xgi_pHgQ/edit#slide=id.g27ad74154df_0_0) 
+| Sem 5 | Teorema central y ley de grandes números | [Link](https://docs.google.com/presentation/d/1eyCJ1O-beCWy9SJBTVfFAMWUw-uZhOsLTS9xgi_pHgQ/edit#slide=id.g27ad74154df_0_0), [Practicum 1](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_5/Practicum_1.ipynb) 
+| Sem 6 | Tipos de análisis y KMeans | [Link](https://docs.google.com/presentation/d/1ppdv35H4vk97xD9pP0X91SxHxBQbrRRxuMEP2RDeZeA/edit?usp=sharing), [Practicum 2](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_2.ipynb)
+|   |  | [Practicum 3](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_3.ipynb) 
 
 
 
