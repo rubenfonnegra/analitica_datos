@@ -17,6 +17,9 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | Sem 5 | Teorema central y ley de grandes números | [Link](https://docs.google.com/presentation/d/1eyCJ1O-beCWy9SJBTVfFAMWUw-uZhOsLTS9xgi_pHgQ/edit#slide=id.g27ad74154df_0_0), [Practicum 1](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_5/Practicum_1.ipynb) 
 | Sem 6 | Tipos de análisis y KMeans | [Link](https://docs.google.com/presentation/d/1ppdv35H4vk97xD9pP0X91SxHxBQbrRRxuMEP2RDeZeA/edit?usp=sharing), [Practicum 2](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_2.ipynb)
 |   |  | [Practicum 3](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_3.ipynb) 
+| Sem 7 | Clustering Jerárquico | [Link](https://docs.google.com/presentation/d/1lbfjixb3nDVQwKYDe7tGtxIkS6-eJlWiUWPJ7iL1qpU/edit?usp=sharing), [Practicum 5](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_5.ipynb)
+
+
 
 
 
