@@ -19,6 +19,8 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |   |  | [Practicum 3](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_3.ipynb) 
 | Sem 7 | Clustering Jerárquico | [Link](https://docs.google.com/presentation/d/1lbfjixb3nDVQwKYDe7tGtxIkS6-eJlWiUWPJ7iL1qpU/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_4.ipynb)
 |   |  | [Practicum 5](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_5.ipynb) 
+| Sem 8 | Análisis de anomalías | [Practicum 6](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_6.ipynb)
+|   |  | [Practicum 7](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_7.ipynb) 
 
 
 
