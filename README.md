@@ -21,7 +21,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 |   |  | [Practicum 5](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_5.ipynb) 
 | Sem 8 | Análisis de anomalías | [Practicum 6](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_6.ipynb)
 |   |  | [Practicum 7](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_7.ipynb) 
-
+| Sem 9 | Aprendizaje Supervisado | [Practicum 8](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_9/Practicum_8.ipynb)
 
 
 
