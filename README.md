@@ -4,14 +4,14 @@
 
 # Repositorio Curso Analítica de datos - IUPB
 
-En este repo se alojan los códigos y material de clase que se utilizarán para el curso de analítica de datos. Los códigos contenidos en este repositorio son complementarios al sitio web del curso que pueden encontrar en el siguiente [link](https://sites.google.com/pascualbravo.edu.co/analitica-datos-presencia/presentaci%C3%B3n)
+En este repo se alojan los códigos y material de clase que se utilizarán para el curso de analítica de datos. 
 
 
-## Itinerario de presentaciones
+## Itinerario del curso
 
 | Semana | Título | Enlace |
 |---|---|---|
-| Sem 1 | Introducción e infraestructura | [Link](https://docs.google.com/presentation/d/137RJFWS8mQjaWugO7EcMGUhRBeToeU6AOgmpAwaHqG8/edit?usp=sharing) 
+| Sem 1 | Introducción e infraestructura | [Link](https://docs.google.com/presentation/d/137RJFWS8mQjaWugO7EcMGUhRBeToeU6AOgmpAwaHqG8/edit?usp=sharing), [Acuerdo](https://drive.google.com/file/d/11paNIQki_Kevf3In5SLwaYnS3b77iPca/view) 
 | Sem 2 | Infraestructuras para análisis de datos | [Link](https://docs.google.com/presentation/d/1f4w80HbtQPWiXKut-2Ezepie1Rrp4PiCMNZJSaiMwD0/edit?usp=sharing) 
 | Sem 3 | Jerarquía de memoria | [Link](https://docs.google.com/presentation/d/1N1StbCWDEpE_FYBPsvRMrTLU1D19Kz-C_oaWlsnzehE/edit?usp=sharing) 
 | Sem 5 | Teorema central y ley de grandes números | [Link](https://docs.google.com/presentation/d/1eyCJ1O-beCWy9SJBTVfFAMWUw-uZhOsLTS9xgi_pHgQ/edit#slide=id.g27ad74154df_0_0), [Practicum 1](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_5/Practicum_1.ipynb) 
