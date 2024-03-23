@@ -17,7 +17,7 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | Sem 4 | Entrega 1
 | Sem 5 | Tipos de análisis y KMeans | [Link](https://docs.google.com/presentation/d/1ppdv35H4vk97xD9pP0X91SxHxBQbrRRxuMEP2RDeZeA/edit?usp=sharing), [Practicum 2](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_5/Practicum_2.ipynb)
 |  |  | [Practicum 3](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_3.ipynb), [Practicum 3-1](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_3-1.ipynb) 
-| Sem 6 | Analisis de clusters | [Practicum 4](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_4.ipynb), [Practicum 4-1](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_4-1.ipynb)
+| Sem 6 | Analisis de clusters | [Practicum 4](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_4-1.ipynb)
 | Sem 7  | Clustering Jerárquico | [Link](https://docs.google.com/presentation/d/1lbfjixb3nDVQwKYDe7tGtxIkS6-eJlWiUWPJ7iL1qpU/edit?usp=sharing), [Practicum 5](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_5.ipynb) 
 | Sem 8 | Análisis de anomalías | [Practicum 6](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_6.ipynb)
 |   |  | [Practicum 7](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_7.ipynb) 
