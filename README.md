@@ -20,8 +20,8 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | Sem 6 | Analisis de clusters | [Practicum 4](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_4-1.ipynb)
 | Sem 7  | Clustering Jerárquico | [Link](https://docs.google.com/presentation/d/1lbfjixb3nDVQwKYDe7tGtxIkS6-eJlWiUWPJ7iL1qpU/edit?usp=sharing), [Practicum 5](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_5.ipynb) 
 | Sem 8 | Análisis de anomalías | [Practicum 6](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_6.ipynb)
-|   |  | [Practicum 7](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_7.ipynb) 
-| Sem 9 | Aprendizaje Supervisado | [Practicum 8](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_9/Practicum_8.ipynb)
+|   | Aprendizaje Supervisado | [Practicum 7](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_7.ipynb) 
+| Sem 9 | Clasificadores y regresores | [Practicum 8](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_9/Practicum_8.ipynb)
 | Sem 10 | Aplicación | [Practicum 9](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_10/Practicum_9.ipynb)
 | Sem 11 | Neural Nets | [Link](https://es.slideshare.net/databricks/introduction-to-neural-networks-122033415), [Practicum 10](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_11/Practicum_10.ipynb)
 
