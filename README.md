@@ -15,12 +15,11 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | Sem 2  | Teorema central y ley de grandes números | [Link](https://docs.google.com/presentation/d/1f4w80HbtQPWiXKut-2Ezepie1Rrp4PiCMNZJSaiMwD0/edit?usp=sharing) [Practicum 1](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_2/Practicum_1.ipynb) 
 | Sem 3  | Paradigmas de modelamiento | [Link](https://docs.google.com/presentation/d/1ppdv35H4vk97xD9pP0X91SxHxBQbrRRxuMEP2RDeZeA/edit?usp=sharing), [Practicum 2](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_3/Practicum_2.ipynb)
 | Sem 4  | Entrega 1
-| Sem 5  | Paradigma no supervisado | 
-|        | Clustering | 
-| Sem 6  | Analisis de clusters | 
-| Sem 7  | Clustering Jerárquico | 
-| Sem 8  | Análisis de anomalías | 
-|        | Paradigma Supervisado | 
+| Sem 5  | Análisis de clusters | [Practicum 3](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_5/Practicum_3.ipynb)
+| Sem 6  | Clustering Jerárquico | [Link](https://docs.google.com/presentation/d/1ppdv35H4vk97xD9pP0X91SxHxBQbrRRxuMEP2RDeZeA/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_4.ipynb)
+| Sem 7  | Análisis de anomalías| 
+| Sem 8  | Paradigma Supervisado | 
+| Sem 9  | Regresion | 
 | Sem 9  | Clasificación | 
 | Sem 10 | Aplicaciones | 
 | Sem 11 | Aplicaciones | 
