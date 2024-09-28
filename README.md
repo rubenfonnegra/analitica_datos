@@ -18,8 +18,8 @@ En este repo se alojan los códigos y material de clase que se utilizarán para 
 | Sem 5  | Análisis de clusters | [Practicum 3](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_5/Practicum_3.ipynb)
 | Sem 6  | Clustering Jerárquico | [Link](https://docs.google.com/presentation/d/1XphOGfcw0bueFupyQtosTo5LL90sZ0dkJA32r4JiIYg/edit?usp=sharing), [Practicum 4](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_6/Practicum_4.ipynb)
 | Sem 7  | Paradigma Supervisado | [Link](https://docs.google.com/presentation/d/1I4cHCa8T4lMJbxHHbIRzySzkS2A_rfDb8gpnQ2oMoZE), [Practicum 5](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_7/Practicum_5.ipynb)
-| Sem 8  | Clasificación | 
-| Sem 9  | Regresion | 
+| Sem 8  | Clasificación y regresión | [Practicum 6](https://github.com/rubenfonnegra/analitica_datos/blob/master/Sem_8/Practicum_6.ipynb)
+| Sem 9  | Aplicaciones | 
 | Sem 10 | Aplicaciones | 
 | Sem 11 | Aplicaciones | 
 |        | Neural Nets | 
